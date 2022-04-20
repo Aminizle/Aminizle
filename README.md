@@ -140,8 +140,8 @@
 					<img  src="visual studio code-687.svg" alt="VS Code" height="50" />  
 					&nbsp&nbsp&nbsp
 					<img  src="git-alt.svg" alt="Git" height="50" /> 
-					&nbsp&nbsp&nbsp
-					<img  src="icons8-trello.svg" alt="Trello" height="50" /> 
+<!-- 					&nbsp&nbsp&nbsp
+					<img  src="icons8-trello.svg" alt="Trello" height="50" />  -->
 					&nbsp&nbsp&nbsp
 					<img  src="icons8-jenkins.svg" alt="Jenkins" height="50" />   	
 					&nbsp&nbsp&nbsp
