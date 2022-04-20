@@ -19,16 +19,16 @@
 			<td width="50%">
 				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
 				<div align="center" >  
-					<a href='https://ethodeus.github.io/breaking-bad-info-page/'>
+					<a href='https://marvel-cinematic-universe.netlify.app/'>
 						<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Breaking-bad/ezgif.com-gif-maker.gif" alt="Breaking-bad-		infopage" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Ethodeus/breaking-bad-info-page" target="_blank">
+						<a href="https://github.com/Aminizle/Marvel" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ethodeus.github.io/breaking-bad-info-page/" target="_blank">
+						<a href="https://marvel-cinematic-universe.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
