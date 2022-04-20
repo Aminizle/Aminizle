@@ -57,7 +57,7 @@
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
 				<a href='https://ameenmohiyuddin.netlify.app/'>
-					<img src="https://github.com/Aminizle/Aminizle-Freelance-Portfolio" height="100%" />
+					<img src="portfolio.png" height="100%" />
 				</a>
 				<br>
 				<br>
