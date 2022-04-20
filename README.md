@@ -1,10 +1,9 @@
 <img src="Github Banner.svg" width="100%">
 <p align="Center">
-	A creative, detail-oriented, software developer with an eye for user experience and a deep interest in AI.
+	A detail-oriented, full-stack web developer with an eye for user experience and accesibility.
 </p>
 <p align="Center">
-	Quick learner who enjoys experimenting with new technology. Able to switch between perfectionism and pragmatism. Agile
-	software development, teamwork. Always willing and able to think outside the box.
+	Creative problem solver who enjoys experimenting with new technology. Able to switch between pixel perfect perfectionism and minimal viable product pragmatism. Always willing and able to think outside the box.
 </p>
 <br />
 <p align="center">Please see <a href="https://ameenmohiyuddin.netlify.app/">my portfolio</a> for more information!</p>
