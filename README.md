@@ -159,7 +159,7 @@
 <p align="center">
 	<a href="https://twitter.com/DevAmeenM" target="_blank">
 		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg"
+			src="twitter.svg"
 			width="40px"
 			style="padding-left: 10px"
 		/>
@@ -167,21 +167,28 @@
 	&nbsp&nbsp&nbsp
 	<a href="https://angel.co/u/sc-ospc" target="_blank">
 		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/angellist.svg"
+			src="angellist.svg"
 			width="40px"
 		/>
 	</a>	
 	&nbsp&nbsp&nbsp
 	<a href="https://www.linkedin.com/in/ameen-mohiyuddin/" target="_blank">
 		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/linkedin-in.svg"
+			src="linkedin.svg"
 			width="40px"
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
 	<a href="https://github.com/Aminizle" target="_blank">
 		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/github.svg"
+			src="github.svg"
+			width="40px"
+		/>
+	</a>
+	&nbsp&nbsp&nbsp
+	<a href="https://www.youtube.com/channel/UCtnzaJeLTPhhH6jolpdGhpw" target="_blank">
+		<img
+			src="icons8-youtube.svg"
 			width="40px"
 		/>
 	</a>
