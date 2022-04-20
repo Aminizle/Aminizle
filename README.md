@@ -1,13 +1,13 @@
 <img src="Github Banner.svg" width="100%">
 <p align="Center">
-	A creative, detail-oriented, software developer with a deep interest in AI and integrating 3D modeling in web design.
+	A creative, detail-oriented, software developer with an eye for user experience and a deep interest in AI.
 </p>
 <p align="Center">
 	Quick learner who enjoys experimenting with new technology. Able to switch between perfectionism and pragmatism. Agile
-	software development, teamwork, extremely passionate about design. Always willing and able to think outside the box.
+	software development, teamwork. Always willing and able to think outside the box.
 </p>
 <br />
-<p align="center">Please see <a href="https://ameenmohiyuddin.netlify.app/">my website</a> for more information!</p>
+<p align="center">Please see <a href="https://ameenmohiyuddin.netlify.app/">my portfolio</a> for more information!</p>
 <br />
 
 <!-- PROJECTS -->
