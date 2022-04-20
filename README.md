@@ -129,8 +129,7 @@
 					&nbsp&nbsp&nbsp
 					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />	
 					<br>
-					<br>
-		
+					<br>		
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">	
