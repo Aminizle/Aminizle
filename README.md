@@ -20,7 +20,7 @@
 				<h3 align="center" color="white">Marvel Cinematic Universe - Explorer</h2>
 				<div align="center" >  
 					<a href='https://marvel-cinematic-universe.netlify.app/'>
-						<img src="Marvel.gif" alt="Marvel Cinematic Universe Explorer" height="120%" />
+						<img src="Marvel.gif" alt="Marvel Cinematic Universe Explorer" height="100%" />
 					</a>
 					<br>
 					<br>
