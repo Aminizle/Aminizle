@@ -122,12 +122,13 @@
 				<div align="center">
 					&nbsp
 					<img  src="mongodb.svg" alt="MongoDB" height="50" />  
+					&nbsp&nbsp&nbsp					
+					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />
 					&nbsp&nbsp&nbsp
-					<img  src="node-js.svg" alt="Node.js" height="50" /> 					 
+					<img  src="react.svg" alt="React" height="50" /> 					 
 					&nbsp&nbsp&nbsp
-					<img  src="js-square.svg" alt="JavaScript" height="50" /> 
-					&nbsp&nbsp&nbsp
-					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />	
+					<img  src="node-js.svg" alt="Node.jS" height="50" /> 
+						
 					<br>
 					<br>		
 				</div>
