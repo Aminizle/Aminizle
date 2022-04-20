@@ -127,9 +127,7 @@
 					&nbsp&nbsp&nbsp
 					<img  src="js-square.svg" alt="JavaScript" height="50" /> 
 					&nbsp&nbsp&nbsp
-					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />
-					<br>
-					<br>	
+					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />					
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">	
