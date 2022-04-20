@@ -107,13 +107,13 @@
 			<h3 align="center" color="white">Frontend</h2>
 			<br>
 				<div align="center" >  
-					<img src="react.svg" alt="React" height="50" />
+					<img src="react.svg" alt="React" height="44" />
 						&nbsp&nbsp&nbsp
-					<img  src="css3-alt.svg" alt="CSS3" height="50" />
+					<img  src="css3-alt.svg" alt="CSS3" height="44" />
 						&nbsp&nbsp&nbsp
-					<img  src="html5.svg" alt="HTML5" height="50" />
+					<img  src="html5.svg" alt="HTML5" height="44" />
 						&nbsp&nbsp&nbsp
-					<img  src="js-square.svg" alt="JavaScript" height="50" />  
+					<img  src="js-square.svg" alt="JavaScript" height="44" />  
 					</div>
 			</td>
 			<td valign="top" width="33.3333%">
@@ -121,13 +121,13 @@
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="mongodb.svg" alt="MongoDB" height="50" />  
+					<img  src="mongodb.svg" alt="MongoDB" height="44" />  
 					&nbsp&nbsp&nbsp					
-					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />
+					<img  src="expressjs-icon.svg" alt="Express.js" height="44" />
 					&nbsp&nbsp&nbsp
-					<img  src="react.svg" alt="React" height="50" /> 					 
+					<img  src="react.svg" alt="React" height="44" /> 					 
 					&nbsp&nbsp&nbsp
-					<img  src="node-js.svg" alt="Node.jS" height="50" /> 
+					<img  src="node-js.svg" alt="Node.jS" height="44" /> 
 						
 					<br>
 					<br>		
