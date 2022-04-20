@@ -38,7 +38,7 @@
 			<td width="50%">
 				<h3 align="center" color="white">Nasa's picture of the day archive explorer</h2>
 				<div align="center" >  
-					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
+					<a href='https://nasa-pictures-of-the-day.netlify.app/'>
 						<img src="Nasa.gif" alt="Nasa's picture of the day archive explorer" height="100%" />
 					</a>
 					<br>
@@ -107,13 +107,13 @@
 			<h3 align="center" color="white">Frontend</h2>
 			<br>
 				<div align="center" >  
-					<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/react.svg" alt="React" height="50" />
+					<img src="react.svg" alt="React" height="50" />
 						&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/css3-alt.svg" alt="CSS3" height="50" />
+					<img  src="css3-alt.svg" alt="CSS3" height="50" />
 						&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/html5.svg" alt="HTML5" height="50" />
+					<img  src="html5.svg" alt="HTML5" height="50" />
 						&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/js-square.svg" alt="JavaScript" height="50" />  
+					<img  src="js-square.svg" alt="JavaScript" height="50" />  
 					</div>
 			</td>
 			<td valign="top" width="33.3333%">
@@ -121,15 +121,13 @@
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/mongodb.svg" alt="MongoDB" height="50" />  
+					<img  src="mongodb.svg" alt="MongoDB" height="50" />  
 					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/node-js.svg" alt="Node.js" height="50" /> 
+					<img  src="node-js.svg" alt="Node.js" height="50" /> 					 
 					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/git-alt.svg" alt="Git" height="50" />  
+					<img  src="js-square.svg" alt="JavaScript" height="50" /> 
 					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/js-square.svg" alt="JavaScript" height="50" /> 
-					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/expressjs-icon.svg" alt="Express.js" height="50" />
+					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />
 					<br>
 					<br>	
 				</div>
@@ -139,13 +137,15 @@
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/visual%20studio%20code-687.svg" alt="VS Code" height="44" />  
+					<img  src="visual studio code-687.svg" alt="VS Code" height="50" />  
 					&nbsp&nbsp&nbsp
-					<img  src="icons8-trello.svg" alt="Trello" height="44" /> 
+					<img  src="git-alt.svg" alt="Git" height="50" /> 
 					&nbsp&nbsp&nbsp
-					<img  src="icons8-jenkins.svg" alt="Jenkins" height="44" />   	
+					<img  src="icons8-trello.svg" alt="Trello" height="50" /> 
 					&nbsp&nbsp&nbsp
-					<img  src="icons8-jira.svg" alt="Jira" height="44" /> 
+					<img  src="icons8-jenkins.svg" alt="Jenkins" height="50" />   	
+					&nbsp&nbsp&nbsp
+					<img  src="icons8-jira.svg" alt="Jira" height="50" /> 
 				</div>
 			</td>
 		</tr>
