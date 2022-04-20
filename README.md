@@ -155,7 +155,7 @@
 
 <h2 align="center" color="white">Let's connect!</h2>
 <p align="center">
-	<a href="https://twitter.com/dev_ethos" target="_blank">
+	<a href="https://twitter.com/DevAmeenM" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/twitter.svg"
 			width="40px"
@@ -168,38 +168,19 @@
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/angellist.svg"
 			width="40px"
 		/>
-	</a>
+	</a>	
 	&nbsp&nbsp&nbsp
-	<a href="https://www.behance.net/blackintsub" target="_blank">
-		<img
-			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/behance.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/sebastianocospina/" target="_blank">
+	<a href="https://www.linkedin.com/in/ameen-mohiyuddin/" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Social%20media%20Icons/linkedin-in.svg"
 			width="40px"
 		/>
 	</a>
 	&nbsp&nbsp&nbsp
-	<a href="https://github.com/Ethodeus" target="_blank">
+	<a href="https://github.com/Aminizle" target="_blank">
 		<img
 			src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/github.svg"
 			width="40px"
 		/>
 	</a>
 </p>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
