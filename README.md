@@ -141,9 +141,11 @@
 					&nbsp
 					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/visual%20studio%20code-687.svg" alt="VS Code" height="44" />  
 					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/cdnlogo.com_illustrator.svg" alt="Illustrator" height="44" /> 
+					<img  src="icons8-trello.svg" alt="Trello" height="44" /> 
 					&nbsp&nbsp&nbsp
-					<img  src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Tech%20Skills/cdnlogo.com_photoshop.svg" alt="Photoshop" height="44" />   	
+					<img  src="icons8-jenkins.svg" alt="Jenkins" height="44" />   	
+					&nbsp&nbsp&nbsp
+					<img  src="icons8-jira.svg" alt="Jira" height="44" /> 
 				</div>
 			</td>
 		</tr>
