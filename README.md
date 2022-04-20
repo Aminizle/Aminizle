@@ -1,4 +1,4 @@
-<img src="https://github.com/Aminizle/Aminizle/Github Banner.svg" width="100%">
+<img src="Github Banner.svg" width="100%">
 <p align="Center">
 	A creative, detail-oriented, software developer with a deep interest in AI and integrating 3D modeling in web design.
 </p>
