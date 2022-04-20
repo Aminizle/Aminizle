@@ -20,7 +20,7 @@
 				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
 				<div align="center" >  
 					<a href='https://marvel-cinematic-universe.netlify.app/'>
-						<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Breaking-bad/ezgif.com-gif-maker.gif" alt="Breaking-bad-		infopage" height="100%" />
+						<img src="Marvel cinematic universe.mp4" alt="Marvel Cinematic Universe Explorer" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -32,7 +32,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Breaking Bad fans to find general information about their favorite characters!</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Platform for Marvel Cinematic Universe fans to find general information about their favorite movies!</p>
 				</div>
 			</td>
 			<td width="50%">
