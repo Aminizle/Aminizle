@@ -20,7 +20,7 @@
 				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
 				<div align="center" >  
 					<a href='https://marvel-cinematic-universe.netlify.app/'>
-						<img src="Marvel cinematic universe.mp4" alt="Marvel Cinematic Universe Explorer" height="100%" />
+						<img src="Marvel.gif" alt="Marvel Cinematic Universe Explorer" height="100%" />
 					</a>
 					<br>
 					<br>
