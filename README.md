@@ -124,11 +124,10 @@
 					<img  src="mongodb.svg" alt="MongoDB" height="44" />  
 					&nbsp&nbsp&nbsp					
 					<img  src="expressjs-icon.svg" alt="Express.js" height="44" />
-					&nbsp&nbsp&nbsp
-					<img  src="react.svg" alt="React" height="44" /> 					 
-					&nbsp&nbsp&nbsp
+					&nbsp&nbsp&nbsp					
 					<img  src="node-js.svg" alt="Node.jS" height="44" /> 
-						
+					&nbsp&nbsp&nbsp	
+					<img  src="js-square.svg" alt="JAvascript" height="44" /> 								
 					<br>
 					<br>		
 				</div>
