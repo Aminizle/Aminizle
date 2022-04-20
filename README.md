@@ -6,7 +6,7 @@
 	Creative problem solver who enjoys experimenting with new technology. Able to switch between pixel perfect perfectionism and minimal viable product pragmatism. Always willing and able to think outside the box.
 </p>
 <br />
-<p align="center">Check out my <a href="https://ameenmohiyuddin.netlify.app/"><strong>Portfolio<strong/><a/> showcasing my work & my contact information.</p>
+<p align="center">Check out my <a href="https://ameenmohiyuddin.netlify.app/"><strong>Portfolio<strong/><a/> for some of my work and my contact information.</p>
 <br />
 
 <!-- PROJECTS -->
