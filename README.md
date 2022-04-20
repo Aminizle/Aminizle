@@ -17,7 +17,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">Breaking Bad - Infopage</h2>
+				<h3 align="center" color="white">Marvel Cinematic Universe - Explorer</h2>
 				<div align="center" >  
 					<a href='https://marvel-cinematic-universe.netlify.app/'>
 						<img src="Marvel.gif" alt="Marvel Cinematic Universe Explorer" height="100%" />
