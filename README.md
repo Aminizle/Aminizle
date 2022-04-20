@@ -36,18 +36,18 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Pick 'em Drinks! - Drink recipe site</h2>
+				<h3 align="center" color="white">Nasa's picture of the day archive explorer</h2>
 				<div align="center" >  
 					<a href='https://ethodeus.github.io/pick-em-drinks-project/'>
-						<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Pick%20'em%20Drinks!/ezgif.com-gif-maker.gif" alt="Pick 'em Drinks!" height="100%" />
+						<img src="Nasa.gif" alt="Nasa's picture of the day archive explorer" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Ethodeus/pick-em-drinks-project" target="_blank">
+						<a href="https://nasa-pictures-of-the-day.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ethodeus.github.io/pick-em-drinks-project/" target="_blank">
+						<a href="https://github.com/Aminizle/NASA" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
