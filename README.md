@@ -121,6 +121,7 @@
 				<br>
 				<div align="center">
 					&nbsp
+<<<<<<< HEAD
 					<img  src="mongodb.svg" alt="MongoDB" height="44" />  
 					&nbsp&nbsp&nbsp					
 					<img  src="expressjs-icon.svg" alt="Express.js" height="44" />
@@ -129,6 +130,15 @@
 					&nbsp&nbsp&nbsp
 					<img  src="node-js.svg" alt="Node.jS" height="44" /> 
 						
+=======
+					<img  src="mongodb.svg" alt="MongoDB" height="50" />  
+					&nbsp&nbsp&nbsp
+					<img  src="node-js.svg" alt="Node.js" height="50" /> 					 
+					&nbsp&nbsp&nbsp
+					<img  src="js-square.svg" alt="JavaScript" height="50" /> 
+					&nbsp&nbsp&nbsp
+					<img  src="expressjs-icon.svg" alt="Express.js" height="50" />	
+>>>>>>> parent of 4d38a24 (Update README.md)
 					<br>
 					<br>		
 				</div>
