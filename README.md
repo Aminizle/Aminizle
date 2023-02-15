@@ -57,7 +57,7 @@
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
 				<a href='https://ameen-mohiyuddin-portfolio.netlify.app/'>
-					<img src="portfolio.png" height="100%" />
+					<img src="portfolio.gif" height="100%" />
 				</a>
 				<br>
 				<br>
