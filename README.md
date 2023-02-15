@@ -65,7 +65,7 @@
 					<a href="https://github.com/Aminizle/React-Portfolio" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://ameenmohiyuddin.netlify.app/" target="_blank">
+					<a href="https://ameen-mohiyuddin-portfolio.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
