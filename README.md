@@ -56,20 +56,20 @@
 		<td width="50%">
 			<h3 align="center" color="white">Personal Portfolio</h2>
 			<div align="center" >  
-				<a href='https://ameenmohiyuddin.netlify.app/'>
+				<a href='https://ameen-mohiyuddin-portfolio.netlify.app/'>
 					<img src="portfolio.png" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/Aminizle/Aminizle-Freelance-Portfolio" target="_blank">
+					<a href="https://github.com/Aminizle/React-Portfolio" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
 					<a href="https://ameenmohiyuddin.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - My Personal Portfolio showcasing some of my work and how to get in touch with me.</p>
+				<p><strong>React, Tailwind CSS, JavaScript, CSS3, HTML5</strong> - My Personal Portfolio showcasing some of my work and how to get in touch with me.</p>
 			</div>
 		</td>
 		<td width="50%">
