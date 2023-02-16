@@ -193,4 +193,4 @@
 </p>
 
 
-<p>Made with ❤ by Ameen</p>
+<p align="center">Made with ❤ by Ameen</p>
