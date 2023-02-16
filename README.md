@@ -121,7 +121,7 @@
 				<div align="center">
 					&nbsp
 
-					<img  src="mongodb.svg" alt="MongoDB" height="44" />  
+<img  src="mongodb.svg" alt="MongoDB" height="44" />  
 					&nbsp&nbsp&nbsp					
 					<img  src="expressjs-icon.svg" alt="Express.js" height="44" />
 					&nbsp&nbsp&nbsp					
