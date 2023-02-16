@@ -191,3 +191,6 @@
 		/>
 	</a>
 </p>
+
+
+<p>Made with ❤ by Ameen</p>
