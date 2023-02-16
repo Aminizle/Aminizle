@@ -97,7 +97,7 @@
 <br />
 
 <!-- TECHNOLOGIES -->
- 
+
 <h2 align="center" color="white">Technologies</h2>
 <div align="center">
 <table>
@@ -119,14 +119,11 @@
 				<h3 align="center" color="white">Backend</h2>
 				<br>
 				<div align="center">
-					&nbsp
-<<<<<<< HEAD
-					<img  src="mongodb.svg" alt="MongoDB" height="44" />  
+				<img  src="mongodb.svg" alt="MongoDB" height="44" />  
 					&nbsp&nbsp&nbsp					
 					<img  src="expressjs-icon.svg" alt="Express.js" height="44" />
 					&nbsp&nbsp&nbsp					
 					<img  src="node-js.svg" alt="Node.jS" height="44" /> 
-						
 					<br>
 					<br>		
 				</div>
