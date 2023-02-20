@@ -1,6 +1,6 @@
 <img src="Github Banner.svg" width="100%">
 <p align="Center">
-	A detail-oriented, full-stack web developer with an eye for user experience and accesibility.
+	A detail-oriented, full-stack web developer with an eye for user experience and accessibility.
 </p>
 <p align="Center">
 	Creative problem solver who enjoys experimenting with new technology. Able to switch between pixel perfect perfectionism and minimal viable product pragmatism. Always willing and able to think outside the box.
