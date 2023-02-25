@@ -37,7 +37,7 @@
 			<td width="50%">
 				<h3 align="center" color="white">Nasa's picture of the day archive explorer</h2>
 				<div align="center" >  
-					<a href='https://nasa-pictures-of-the-day.netlify.app/'>
+					<a href='https://nasa-picture-archive.netlify.app/'>
 						<img src="Nasa.gif" alt="Nasa's picture of the day archive explorer" height="100%" />
 					</a>
 					<br>
