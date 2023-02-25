@@ -46,7 +46,7 @@
 						<a href="https://github.com/Aminizle/NASA" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://nasa-pictures-of-the-day.netlify.app/" target="_blank">
+						<a href="https://nasa-picture-archive.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
