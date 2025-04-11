@@ -1,12 +1,12 @@
 <img src="Github Banner.svg" width="100%">
 <p align="Center">
-	A detail-oriented, full-stack web developer with an eye for user experience and accesibility.
+	A detail-oriented, full-stack web developer with an eye for user experience and accessibility.
 </p>
 <p align="Center">
 	Creative problem solver who enjoys experimenting with new technology. Able to switch between pixel perfect perfectionism and minimal viable product pragmatism. Always willing and able to think outside the box.
 </p>
 <br />
-<p align="center">Check out my <a href="https://ameenmohiyuddin.netlify.app/"><strong>Portfolio<strong/><a/> for some of my work and my contact information.</p>
+<p align="center">Check out my <a href="https://ameen-mohiyuddin-portfolio.netlify.app"><strong>Portfolio<strong/><a/> for some of my work and my contact information.</p>
 <br />
 
 <!-- PROJECTS -->
@@ -37,7 +37,7 @@
 			<td width="50%">
 				<h3 align="center" color="white">Nasa's picture of the day archive explorer</h2>
 				<div align="center" >  
-					<a href='https://nasa-pictures-of-the-day.netlify.app/'>
+					<a href='https://nasa-picture-archive.netlify.app/'>
 						<img src="Nasa.gif" alt="Nasa's picture of the day archive explorer" height="100%" />
 					</a>
 					<br>
@@ -46,7 +46,7 @@
 						<a href="https://github.com/Aminizle/NASA" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://nasa-pictures-of-the-day.netlify.app/" target="_blank">
+						<a href="https://nasa-picture-archive.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
 						</a>	
 					</p>
